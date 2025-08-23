@@ -20,10 +20,12 @@
 ## Socials
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sherin-perera-01a56b306)
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+<a href="https://www.linkedin.com/in/sherin-perera-01a56b306" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+</a>
 
 </div>
+
 
 
 # Tech Stack
