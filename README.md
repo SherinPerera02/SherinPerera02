@@ -1,4 +1,9 @@
 # About Me
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sherin%20Perera&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" alt="Header Banner"/>
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+I'm+Sherin+Perera+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%E2%9A%A1;Problem+Solver+%26+Code+Craftsman+%F0%9F%A7%A9" alt="Typing SVG" />
 </div>
@@ -112,5 +117,6 @@
 
 </div>
 
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Banner"/>
+</div>
