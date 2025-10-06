@@ -13,8 +13,8 @@
 </div>
 
 🔭 Currently working on: **MERN projects & API integrations**<br>
-💬 Ask me about: **Web development, APIs and system design**<br>
-⚡ Fun fact: **I love debugging more than coding - it's like solving puzzles** 
+💬 Ask me about: **Bussiness Analysis, Web development, APIs and system design**<br>
+
 
 <div align="center">
   
