@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=700&height=100&lines=Hi+there!+I'm+Sherin+Perera+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Business+Analyst+%F0%9F%93%8A;Building+Solutions+%7C+Driving+Insights+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=700&height=100&lines=Hi+there!+I'm+Sherin+Perera+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Business+Analyst+%F0%9F%93%8A;Developing+Solutions+%7C+Driving+Insights+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -113,15 +113,37 @@ I'm a **Software Developer** and **Business Analyst** who bridges the gap betwee
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SherinPerera02&theme=default&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SherinPerera02&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=SherinPerera02&theme=default&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SherinPerera02&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherinPerera02&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherinPerera02&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+### 📈 Alternative Stats View
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SherinPerera02&theme=tokyonight)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SherinPerera02&theme=tokyonight" alt="Repos Per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SherinPerera02&theme=tokyonight" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SherinPerera02&theme=tokyonight" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SherinPerera02&theme=tokyonight" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
