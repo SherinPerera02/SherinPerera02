@@ -112,9 +112,6 @@ I'm a **Software Developer** and **Business Analyst** who bridges the gap betwee
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SherinPerera02&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=SherinPerera02&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
