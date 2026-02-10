@@ -108,7 +108,6 @@ I'm a **Software Developer** and **Business Analyst** who bridges the gap betwee
 # 📊 GitHub Stats
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -121,7 +120,6 @@ I'm a **Software Developer** and **Business Analyst** who bridges the gap betwee
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherinPerera02&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 ### 📈 Alternative Stats View
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SherinPerera02&theme=tokyonight)
