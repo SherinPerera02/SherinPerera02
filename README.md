@@ -1,11 +1,11 @@
 # About Me
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sherin%20Perera&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Business%20Analyst%20%7C%20Data%20Storyteller&descAlignY=55&descSize=18" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sherin%20Perera&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20QA%20Engineer%20%7C%20Business%20Analyst%20%7C%20Data%20Storyteller&descAlignY=55&descSize=18" alt="Header Banner"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=700&height=100&lines=Hi+there!+I'm+Sherin+Perera+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Business+Analyst+%F0%9F%93%8A;Developing+Solutions+%7C+Driving+Insights+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=700&height=100&lines=Hi+there!+I'm+Sherin+Perera+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;QA+Engineer+%F0%9F%A7%AA;Business+Analyst+%F0%9F%93%8A;Developing+Solutions+%7C+Driving+Insights+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,13 +14,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Developer** and **Business Analyst** who bridges the gap between technology and business strategy. I build robust applications while translating business requirements into actionable technical solutions.
+I'm a **Software Developer**, **QA Engineer**, and **Business Analyst** who bridges the gap between technology and business strategy. I build robust applications, ensure quality through systematic testing, and translate business requirements into actionable technical solutions.
 
 🔭 Currently working on: **Full-stack applications & Business Intelligence dashboards**<br>
 💼 Business Focus: **Requirements Gathering, Process Optimization, Stakeholder Management & Data-Driven Decision Making**<br>
 💻 Development Focus: **Web Applications, APIs, Database Design & Cloud Solutions**<br>
+🧪 QA Focus: **Test Automation, Manual Testing, API Testing, CI/CD Integration & Quality Assurance**<br>
 📊 Analytics Expertise: **Power BI, Data Modeling, KPI Development & Predictive Analytics**<br>
-💬 Ask me about: **Software Development, Business Analysis, Data Visualization, Agile Methodologies & BI Solutions**<br>
+💬 Ask me about: **Software Development, QA & Testing, Business Analysis, Data Visualization, Agile Methodologies & BI Solutions**<br>
 
 
 <div align="center">
@@ -78,6 +79,13 @@ I'm a **Software Developer** and **Business Analyst** who bridges the gap betwee
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+## QA & Testing
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ## Business Intelligence & Analytics
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -166,9 +174,11 @@ I'm a **Software Developer** and **Business Analyst** who bridges the gap betwee
 
 **As a Software Developer:** I write clean, maintainable code and build scalable solutions that solve real-world problems.
 
+**As a QA Engineer:** I ensure software quality through systematic testing, automation frameworks, and continuous integration practices that catch issues before they reach production.
+
 **As a Business Analyst:** I bridge the gap between stakeholders and development teams, ensuring technical solutions align with business objectives.
 
-**The Intersection:** I leverage both skillsets to deliver data-driven applications that not only work flawlessly but also drive measurable business value.
+**The Intersection:** I leverage all three skillsets to deliver data-driven applications that not only work flawlessly but also drive measurable business value.
 
 </div>
 
